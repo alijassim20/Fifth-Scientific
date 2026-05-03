@@ -1,5 +1,3 @@
-# Fifth-Scientific
-نتائج الخامس العلمي 1
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
